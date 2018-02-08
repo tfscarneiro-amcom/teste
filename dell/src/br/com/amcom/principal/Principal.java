@@ -20,7 +20,7 @@ public class Principal extends Conta {
 		System.out.println("Digite Endereço Titular: ");
 		String endereco = s.nextLine();
 				
-		/** Altera Valores **/
+		/** Altera Valores teste para git**/
 		MinhaConta.SetEndereco(endereco);
 		MinhaConta.SetTitular(nome);
 		MinhaConta.SetSaldo(1000);		
